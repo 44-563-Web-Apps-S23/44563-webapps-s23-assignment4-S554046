@@ -1,14 +1,14 @@
 .direction{color:black;
     font-family:'Courier New', Courier, monospace;
     font-size: medium;
-    background-color:beige;
+    background-color:rgb(93, 254, 0);
 }
 .speech{color: black;
     font-family: 'sans-serif', sans-serif, monospace;
     font-size: medium;
 }
 .direction:hover{ color:rgb(83, 170, 170);
-    background-color: rgb(207, 188, 225);
+    background-color: rgb(184, 233, 252);
 }
 .lane{color: rgb(47, 160, 76);
     font-family: 'sans-serif', sans-serif, monospace;
