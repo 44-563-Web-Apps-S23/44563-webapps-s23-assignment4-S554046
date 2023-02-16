@@ -40,3 +40,38 @@ td{
 table{
     margin: 10px;
 }
+.bauer:hover{
+    text-shadow: 2.5px 2.5px;
+    color:rgb(236, 80, 80);
+    filter:blur(0.5px);
+    border-style: dashed;
+    border-left: 7px solid rgb(0, 0, 0);
+}
+
+.lane:hover{
+    text-shadow: 2.5px 2.5px;
+    color:rgb(236, 80, 80);
+    filter:blur(0.5px);
+    border-style: dashed;
+    border-left: 7px solid rgb(0, 0, 0);
+}
+
+
+ul.navbar-horizontal{
+    list-style-type: none;
+    margin: 0;
+    padding:0;
+}
+ul.navbar-horizontal li{
+    float:left;
+    color:black;
+    background-color: rgb(164, 242, 61);
+}
+ul.navbar-horizontal a{
+    display:block;
+    padding:5px
+}
+ul.navbar-horizontal a:hover{
+    background-color: rgb(4, 110, 176);
+    color:black;
+}
